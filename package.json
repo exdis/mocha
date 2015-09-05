@@ -299,9 +299,6 @@
     "to-iso-string": "0.0.2",
     "watchify": "^3.7.0"
   },
-  "peerDependencies": {
-    "nightwatch": "latest"
-  },
   "files": [
     "bin",
     "images",
